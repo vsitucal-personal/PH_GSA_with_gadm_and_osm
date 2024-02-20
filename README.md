@@ -1,5 +1,7 @@
 # PH_GSA_with_gadm_and_osm
 PH Geospatial Analysis with GADM and OSM shapefiles
+[Medium Link](
+https://medium.com/@vsitucal/introduction-to-geopandas-using-ph-gadm-and-osm-shape-files-dc5529a8f102)
 ***
 ## Download shape files from:
 GADM - https://gadm.org/download_country.html
